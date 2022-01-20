@@ -2538,7 +2538,7 @@
                       <Color blue="cc" green="ff" red="cc" type="rgb"/>
                     </Property>
                     <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
-                      <ComponentRef name="buttonGroup19"/>
+                      <ComponentRef name="buttonGroup18"/>
                     </Property>
                     <Property name="mnemonic" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
                       <Connection code="1" type="code"/>
@@ -3015,9 +3015,6 @@
               <SubComponents>
                 <Component class="javax.swing.JToggleButton" name="BotonFinalizado">
                   <Properties>
-                    <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
-                      <ComponentRef name="default"/>
-                    </Property>
                     <Property name="text" type="java.lang.String" value="Finalizado"/>
                   </Properties>
                   <Events>
